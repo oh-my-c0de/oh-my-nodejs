@@ -3,8 +3,7 @@
 ## Getting started
 
 ```
-git clone https://github.com/oh-my-c0de/oh-my-nodejs.git ./my-app && cd my-app && rm -rf .git
-
+git clone https://github.com/oh-my-c0de/oh-my-nodejs.git ./my-app && cd my-app && rm -rf .git && git init
 ```
 
 ## Scripts
